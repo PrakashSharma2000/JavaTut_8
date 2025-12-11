@@ -1,0 +1,14 @@
+# Ignore compiled output
+/build/
+/dist/
+./settings
+# Ignore dependency caches
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore environment variables file
+.env
+.classpath
+.project
