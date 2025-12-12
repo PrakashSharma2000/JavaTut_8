@@ -72,7 +72,7 @@ public class ReadList {
 		streamGenerate.forEach(a1-> System.out.println(a1));
 		
 		//iterate
-		System.out.println("Generating new int values with diffrence of 2");
+		System.out.println("Generating new int values with diffrence of 2  ");
 		Stream<Integer> streamIterated = 
 				Stream
 				.iterate(a, n -> n + 2)
