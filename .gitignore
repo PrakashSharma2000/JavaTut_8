@@ -1,7 +1,8 @@
 # Ignore compiled output
 /build/
 /dist/
-./settings
+.settings/
+
 # Ignore dependency caches
 node_modules/
 
